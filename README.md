@@ -43,12 +43,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" title="AWS" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" title="Flask"  alt="flask" width="40" height="40"/> </a>
 
-<!-- Big Data Technologies -->
-<b>Big Data Technologies:</b><br>
-<a href="https://hadoop.apache.org/docs/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/hadoop.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/> </a>
-<a href="https://spark.apache.org/docs/latest/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Spark" alt="Spark" width="40" height="40"/> </a>
-<a href="https://docs.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/databricks-red.svg" title="Databricks" alt="Databricks" width="40" height="40"/> </a>
-
 <!-- Reporting and Analysis Tools -->
 <b>Reporting and Analysis Tools:</b><br>
 <a href="https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm" target="_blank" rel="noreferrer"> <img src="https://github.com/get-icon/geticon/raw/master/icons/tableau-icon.svg" title="Tableau" alt="Tableau" width="40" height="40"/> </a>
