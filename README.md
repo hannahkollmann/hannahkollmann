@@ -17,6 +17,7 @@
 
 <!-- Data Visualization -->
 <b>Data Visualization:</b><br>
+<a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" title="D3.js"  alt="d3js" width="40" height="40"/> </a>
 <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/plotly.svg" title="Plotly" alt="Plotly" width="40" height="40"/> </a>
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JeremyTallant/databricks_image/blob/main/seaborn-icon.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/> </a>
